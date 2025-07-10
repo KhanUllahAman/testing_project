@@ -37,6 +37,8 @@ dependencies:
   flutter_inappwebview: ^6.0.0-beta.25 # Latest stable beta as of July 2025
   permission_handler: ^11.3.0
   image_picker: ^1.0.7
+  path_provider: ^2.1.5
+  path: ^1.9.1
 
 dev_dependencies:
   flutter_test:
